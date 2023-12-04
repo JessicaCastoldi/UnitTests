@@ -1,0 +1,6 @@
+
+At = 6a2
+Sendo,
+
+At: área total
+a: aresta
